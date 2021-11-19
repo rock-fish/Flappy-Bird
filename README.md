@@ -1,4 +1,4 @@
-# Flappy-Bird
+# Flappy Bird
 
 Click to jump if you are mobile 
 
